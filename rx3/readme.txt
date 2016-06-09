@@ -1,0 +1,1 @@
+This directory contains the 802.11a Receiver model variant #3, which modifies version #2 by adding the "OFDM Demodulation" component, "Remove Cyclic Prefix" and "FFT" subcomponents, to Programmable Logic. 
